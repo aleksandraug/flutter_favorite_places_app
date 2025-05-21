@@ -1,0 +1,73 @@
+# ---------------------------------------
+# Flutter / Dart
+# ---------------------------------------
+.dart_tool/
+.packages
+.pub/
+build/
+
+# ---------------------------------------
+# Android
+# ---------------------------------------
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/local.properties
+*.keystore
+
+# ---------------------------------------
+# iOS / macOS
+# ---------------------------------------
+ios/Pods/
+ios/Runner.xcworkspace
+ios/Podfile.lock
+ios/Flutter/.last_build_id
+macos/Pods/
+macos/Runner.xcworkspace
+macos/Podfile.lock
+DerivedData/
+*.xcuserstate
+
+# ---------------------------------------
+# Windows
+# ---------------------------------------
+windows/flutter/ephemeral/
+windows/runner/Generated\ Files/
+windows/runner/Release/
+windows/CMakeLists.txt.user
+
+# ---------------------------------------
+# Linux
+# ---------------------------------------
+linux/flutter/ephemeral/
+
+# ---------------------------------------
+# IDE / редакторы
+# ---------------------------------------
+.idea/
+*.iml
+.vscode/
+
+# ---------------------------------------
+# Системные файлы
+# ---------------------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------------------
+# SQLite базы и прочее
+# ---------------------------------------
+*.db
+
+
+.build/
+.buildlog/
+.history/
+.migrate_working_dir/
+.svn/
+.swiftpm/
+*~ 
+
+
+.env
