@@ -25,7 +25,6 @@ Flutter-приложение для сохранения мест с фото и
   - Geocoding API для обратного геокодинга (адрес по координатам)  
 - **Firebase**  
   - Cloud Firestore (хранение и синхронизация списка мест)  
-  - Firebase Authentication (авторизация пользователей)  
   - Firebase Storage (загрузка и хранение фотографий)  
 - **SQLite (sqflite)** — локальная база данных для офлайн-режима  
 - **State Management**: `flutter_riverpod`  
